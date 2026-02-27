@@ -5,3 +5,4 @@ print(" 5 ")
 print("NICE TO MEET YOU")
 //////print"New "
 print("6")
+print("7")
